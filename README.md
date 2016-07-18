@@ -1,7 +1,8 @@
 # Demo01
 
 [TIPS]
-  Egit 插件可以在此链接中找到：http://wiki.eclipse.org/EGit/FAQ#Where_can_I_find_older_releases_of_EGit.3F
+
+  Egit 插件可以在此链接中找到：http://wiki.eclipse.org/EGit/FAQ#Where_can_I_find_older_releases_of_EGit.3F 
   Eclipse 与 EGIT的使用:http://my.oschina.net/u/877170/blog/283979
   
 [FUNCTIONS]
